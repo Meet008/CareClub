@@ -1,0 +1,97 @@
+ // echo "<h2>The added record from db is:</h2>";
+            // echo "Name : {$row['charityName']} <br> ";
+            // echo "<br>";
+            // echo "Email: {$row['businessNo']} <br> ";
+            // echo "<br>";
+            // echo "Mobile No: {$row['phone']} <br> ";
+            // echo "<br>";
+            // echo "Website: {$row['email']} <br> ";
+            // echo "<br>";
+            // echo "Gender: {$row['missionInfo']} <br> ";
+            // echo "<br>";
+            // echo "Terms Accepted: {$row['aboutInfo']} <br> "; 
+ 
+ <div class="card">
+            <div class="image">
+                <img class="charity_logo" src="images/charity2.png">
+            </div>
+            <div class="title">
+                <h3>
+                    Westcoast association </h3>
+            </div>
+            <div class="des">
+                <p>Children's village</p>
+                <button class="card_button" style="width:80px;height: 45px;font-size:15px;background:#0070ae;color:#fff;">Donate</button>
+            </div>
+        </div>
+
+        <div class="card">
+
+            <div class="image">
+                <img class="charity_logo" src="images/charity3.png">
+            </div>
+            <div class="title">
+                <h3>
+                    Mitocanada</h3>
+            </div>
+            <div class="des">
+                <p>Children's village</p>
+                <button class="card_button" style="width:80px;height: 45px;font-size:15px;background:#0070ae;color:#fff;">Donate</button>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="image">
+                <img class="charity_logo" src="images/charity4.png">
+            </div>
+            <div class="title">
+                <h3>
+                    Niagara foundation</h3>
+            </div>
+            <div class="des">
+                <p>Children's village</p>
+                <button class="card_button" style="width:80px;height: 45px;font-size:15px;background:#0070ae;color:#fff;">Donate</button>
+            </div>
+        </div>
+        <div class="card">
+
+            <div class="image">
+                <img class="charity_logo" src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+            </div>
+            <div class="title">
+                <h3>
+                    Niagara foundation</h3>
+            </div>
+            <div class="des">
+                <p>Children's village</p>
+                <button class="card_button" style="width:80px;height: 45px;font-size:15px;background:#0070ae;color:#fff;">Donate</button>
+            </div>
+        </div>
+        <div class="card">
+
+            <div class="image">
+                <img class="charity_logo" src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+            </div>
+            <div class="title">
+                <h3>
+                    Niagara foundation</h3>
+            </div>
+            <div class="des">
+                <p>Children's village</p>
+                <button class="card_button" style="width:80px;height: 45px;font-size:15px;background:#0070ae;color:#fff;">Donate</button>
+            </div>
+        </div>
+        <div class="card">
+
+            <div class="image">
+                <img class="charity_logo" src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+            </div>
+            <div class="title">
+                <h3>
+                    Niagara foundation</h3>
+            </div>
+            <div class="des">
+                <p>Children's village</p>
+                <button class="card_button" style="width:80px;height: 45px;font-size:15px;background:#0070ae;color:#fff;">Donate</button>
+            </div>
+        </div>

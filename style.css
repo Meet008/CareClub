@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+    
+   
+}
+
+.form{
+    background-color: white;
+    width: 25%;
+    margin: 120px auto;
+    padding: 50px;
+    box-shadow: 10px 10px 5px rgb(15, 15, 15);
+    border-radius: 6px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+#submit{
+    color:white;
+    background-color: rgb(8, 110, 80);
+    border-radius: 6px;
+    padding: 5px;
+    font-size: large;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  
+}
+
+@media screen and (max-width: 570px) {
+    #form {
+      width: 65%;
+      margin-left:none;
+      padding:40px;
+    }
+  }
+    
