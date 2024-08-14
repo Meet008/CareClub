@@ -11,7 +11,6 @@
 
 **CareClub** is a user-friendly platform designed to connect donors with charities that resonate with their values. Whether you're passionate about supporting youth, caring for the elderly, providing shelter, or feeding the hungry, CareClub makes it easy to find and contribute to a cause you believe in.
 
-![CareClub Banner](https://via.placeholder.com/1200x400?text=CareClub+Charity+Platform)
 
 ## ✨ Features
 
@@ -55,20 +54,6 @@ To get CareClub up and running on your local machine, follow these steps:
 6. **Access the Platform**:
    - Open your browser and visit `http://localhost/careclub/`.
 
-## 🖼️ Screenshots
-
-### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
-
-### Charity Details
-![Charity Details](https://via.placeholder.com/800x400?text=Charity+Details)
-
-### Profile Page
-![Profile Page](https://via.placeholder.com/800x400?text=Profile+Page)
-
-## 🎥 Project Demo
-
-*Coming soon: A video walkthrough of CareClub's features and functionalities!*
 
 ## 🤝 Contributing
 
