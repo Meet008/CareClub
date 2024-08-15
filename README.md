@@ -37,7 +37,7 @@ To get CareClub up and running on your local machine, follow these steps:
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/careclub.git
+   https://github.com/Meet008/CareClub
    ```
 
 3. **Launch XAMPP**: Start Apache and MySQL via the XAMPP Control Panel.
